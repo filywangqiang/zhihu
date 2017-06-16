@@ -84,6 +84,7 @@ class RegisterController extends Controller
     }
 
     /**
+     * 注释
      * @param $user
      */
     private function sendVerifyEmailTo($user)
